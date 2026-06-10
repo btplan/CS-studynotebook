@@ -1,0 +1,12 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 78
+  },
+  "readableLineLength": true,
+  "attachmentFolderPath": "./附件",
+  "showLineNumber": false,
+  "showInlineTitle": false
+}
