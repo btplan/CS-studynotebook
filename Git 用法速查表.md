@@ -1,13 +1,13 @@
 	## 一、仓库管理（Repository）
 
-|操作|命令|
-|---|---|
-|初始化仓库|`git init`|
-|查看仓库状态|`git status`|
-|查看远程仓库|`git remote -v`|
-|绑定远程仓库|`git remote add origin URL`|
-|修改远程仓库|`git remote set-url origin URL`|
-|删除远程仓库|`git remote remove origin`|
+| 操作     | 命令                              |
+| ------ | ------------------------------- |
+| 初始化仓库  | `git init`                      |
+| 查看仓库状态 | `git status`                    |
+| 查看远程仓库 | `git remote -v`                 |
+| 绑定远程仓库 | `git remote add origin URL`     |
+| 修改远程仓库 | `git remote set-url origin URL` |
+| 删除远程仓库 | `git remote remove origin`      |
 
 ---
 
